@@ -54,6 +54,7 @@ The model effectively distinguishes between masked and unmasked faces, even unde
 📁 Dataset & Files
 
 Dataset: Personally collected images of masked and unmasked individuals from various internet sources.
-Source code:- file already uploaded
+jupyter file already uploaded
+
 
 
