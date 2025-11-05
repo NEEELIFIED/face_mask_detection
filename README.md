@@ -56,6 +56,4 @@ The model effectively distinguishes between masked and unmasked faces, even unde
 Dataset: Personally collected images of masked and unmasked individuals from various internet sources.
 Source code:- file already uploaded
 
-Source Code: FACEMASKDETECTION.ipynb
 
-(You may replace this link with your Google Drive or dataset link if you wish to make it public.)
